@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Edin Dedic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Edin Dedic\\.nuget\\packages"
+    ]
+  }
+}
